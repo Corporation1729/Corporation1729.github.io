@@ -4,7 +4,7 @@ Title: About Us
 Date: 2016-4-8
 Category: Python
 Tags: tag1, tag2
-Slug: home
+URL:
 Authors: c1729
 Summary: About Us
 
